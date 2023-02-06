@@ -3,7 +3,7 @@ public class Task{
 public static void main(String[] args){
 system.out.println("kabilan is here");
 protected void america(){
-system.out.println("Dream the world");
+system.out.println("Dream the world"); //Edited at GitHub
 }
 void norway(){
 System.out..println("Green country");
